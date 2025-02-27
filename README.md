@@ -5,3 +5,4 @@
 - 라이브러리 설치
     - `pip install pandas jupyterlab matplotlib scikit-learn seaborn`
 - `.gitignore` 설정
+- `pip freeze >> requirements.txt`
